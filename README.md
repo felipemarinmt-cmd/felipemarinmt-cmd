@@ -4,17 +4,17 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Felipe%20Marin&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20in%20progress%20🚀&descAlignY=55&descSize=18&animation=fadeIn" />
 
 <!-- Imagen del desarrollador -->
-<div align="center">
-  <img src="./assets/dev-coding.png.png" width="280" alt="dev coding" />
-</div>
+<table align="center">
+  <tr>
+    <td><img src="assets/dev-coding.png.png" width="300"/></td>
+    <td><img src="assets/giphy.gif" width="300"/></td>
+  </tr>
+</table>
 
 <!-- Insignias de visitas y seguidores -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=felipemarinmt-cmd&label=Profile%20views&color=302b63&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/felipemarinmt-cmd?label=Followers&style=flat&color=302b63" alt="followers" />
-</p>
-<p align="center">
-  <img src="assets/giphy.gif" alt="Steve Minecraft" width="300"/>
 </p>
 
 ---
