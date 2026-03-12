@@ -5,10 +5,10 @@
 
 <!-- Imagen del desarrollador -->
 
-  <tr>
+  <p align="center">
     <td><img src="assets/dev-coding.png.png" width="300"/></td>
     <td><img src="assets/giphy.gif" width="300"/></td>
-  </tr>
+  </p>
 
 
 <!-- Insignias de visitas y seguidores -->
