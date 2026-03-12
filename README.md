@@ -13,6 +13,9 @@
   <img src="https://komarev.com/ghpvc/?username=felipemarinmt-cmd&label=Profile%20views&color=302b63&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/felipemarinmt-cmd?label=Followers&style=flat&color=302b63" alt="followers" />
 </p>
+<p align="center">
+  <img src="assets/giphy.gif" alt="Steve Minecraft" width="300"/>
+</p>
 
 ---
 
